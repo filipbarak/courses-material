@@ -1,0 +1,43 @@
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+h2{
+    color: #014A7F;
+}
+
+.svg-color{
+    color: #E0E0E0;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+.btn-changable{
+    color: white;
+    font-weight: bold;
+    background-color: greenyellow;
+    margin-top: 50px;
+    padding: 15px 50px 15px 50px;
+}
+
+.text-green{
+    color:greenyellow;
+}
+
+input {
+    margin-bottom: 10px;
+}
+p{
+    margin-top: 20px;
+}
+.btn-facebook{
+    font-weight: bold;
+    padding: 15px 50px 15px 50px;
+    background-color: transparent;
+    border: 1px solid black;
+    color: blue;
+    text-align: center;
+}
+.text-red{
+    color:darkred;
+    font-weight: bold;
+}

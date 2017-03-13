@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { AppHeaderComponent } from './app-header/app-header.component';
 import { AppFooterComponent } from './app-footer/app-footer.component';
 import { ResetPasswordComponent } from './reset-password/reset-password.component';
+import { LoginComponent } from './login/login.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     AppHeaderComponent,
     AppFooterComponent,
-    ResetPasswordComponent
+    ResetPasswordComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
