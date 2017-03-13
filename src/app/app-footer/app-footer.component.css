@@ -1,0 +1,50 @@
+.font-size{
+    font-size: x-small;
+}
+.font-weight{
+    font-weight: bolder;
+}
+.navbarlast-style{
+    background-color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+.responsive-class{
+    margin-bottom: 50px;
+}
+.p-margin{
+    margin: 20px 0 20px 0;
+}
+.bg-navbar{
+    background-color: #E0E0E0;
+}
+.btn-none{
+    color: darkslategrey;
+    font-weight: bold;
+}
+.btn-margins{
+    margin-right: 5px;
+    border-style: solid;
+    background-color: #024B82;
+}
+.marginleft{
+    margin-left: 50%;
+    float: right;
+    position: relative;
+}
+.img-resize{
+    max-width: 50%;
+    height: auto;
+}
+@media screen and (max-width: 600px) {
+    #footer {
+        visibility: hidden;
+        clear: both;
+        float: left;
+        margin: 10px auto 5px 20px;
+        width: 28%;
+        display: none;
+    }
+}
